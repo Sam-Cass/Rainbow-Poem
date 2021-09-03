@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 Red
 Yellow
@@ -6,6 +6,8 @@ Green
 Blue
 Purple
 Indigo
+Unicorm
 Violet
 Pink
-Only A Few Can See The True Colors
+Only A Few Can See The True Colors.
+Along with a unicorn.
