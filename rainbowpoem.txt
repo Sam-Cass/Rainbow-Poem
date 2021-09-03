@@ -4,6 +4,7 @@ Red
 Yellow
 Green
 Blue
+Black
 Purple
 Indigo
 Unicorm
